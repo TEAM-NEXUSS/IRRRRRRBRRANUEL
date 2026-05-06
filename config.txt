@@ -1,0 +1,3 @@
+VersionActual=1
+AppBloqueada=no
+AppBloqueadaR=Este es un texto explicativo opcional
